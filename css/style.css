@@ -1,0 +1,35 @@
+.w-100 {
+    width: 100% !important;
+    height: 651px;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+    background-color: #b3acac;
+}
+
+img,
+svg {
+    vertical-align: middle;
+    width: 21px;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+    background-color: #050505;
+}
+
+.logoMedia {
+    width: 116px;
+    height: 59px;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+.row.g-3 {
+    height: 661px;
+  }
+
+  

@@ -1,0 +1,52 @@
+.w-100 {
+    width: 100% !important;
+    height: 651px;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+    background-color: #b3acac;
+}
+
+img,
+svg {
+    vertical-align: middle;
+    width: 21px;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+    background-color: #fffefe;
+}
+
+.logoMedia {
+    width: 116px;
+    height: 59px;
+}
+
+body {
+    background-color: #0e433c;
+}
+
+
+.row.g-3 {
+    height: 661px;
+}
+
+container {
+    padding-left: 35px;
+  }
+
+
+  .card-header:first-child {
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+    padding-bottom: 12px;
+    background-color: #e8f6da;
+  }
+
+
+
+.algorithm {
+  padding-bottom: 7px;
+  padding-top: 23px;
+}

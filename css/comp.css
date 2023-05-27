@@ -1,0 +1,71 @@
+.w-100 {
+    width: 100% !important;
+    height: 651px;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+    background-color: #b3acac;
+}
+
+img,
+svg {
+    vertical-align: middle;
+    width: 21px;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+    background-color: #050505;
+}
+
+.logoMedia {
+    width: 116px;
+    height: 59px;
+}
+
+body {
+    background-color: #59e7d3;
+}
+
+.row.g-3 {
+    height: 661px;
+}
+
+.container,
+.container-lg,
+.container-md,
+.container-sm {
+    max-width: 941px;
+    padding: 75px;
+}
+
+
+
+
+.semester {
+    padding-bottom: 69px;
+    display: inline-flex;
+    width: 48%;
+    flex-direction: row;
+    justify-content: normal;
+    padding-left: 92px;
+}
+
+
+
+.container {
+    padding-left: inherit;
+}
+
+card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(92, 70, 70, 0.13);
+    border-radius: .25rem;
+  }
